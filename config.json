@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6281933225481@s.whatsapp.net", 
+    "ownerName": "Marselstore", 
+    "botName": "MarsZxY BotsZ",
+    "footer": "© MarsZxY || BotsZ", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/LLWKDuG0qIkCJdLgSZ4TWt.",
+    "yootube": "https://youtube.com",
+     
+    "QrisAllPay": "https://sociabuzz.com/marselthamvhan",
+    "textBarisDonate1": "Dana : https://sociabuzz.com/marselthamvhan",
+    "textBarisDonate2": "Ovo : https://sociabuzz.com/marselthamvhan",
+    "textBarisDonate3": "Gopay : https://sociabuzz.com/marselthamvhan",
+    "textBarisDonate4": "Pulsa : https://sociabuzz.com/marselthamvhan",
+  
+    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu2": "Rest Api",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://youtube.com",
+    "ButtonMenuLink2": "herokuapp.com",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "081933225481",
+        "author": "MarselStore"
+    }
+}
